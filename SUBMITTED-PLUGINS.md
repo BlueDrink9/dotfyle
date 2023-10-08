@@ -4,6 +4,7 @@
 - martineausimon/nvim-bard
 
 ## Plugin Manager
+- [bluedrink9/lazy vim-plug adapter](https://gist.github.com/BlueDrink9/474b150c44d41b80934990c0acfb00be)
 
 ## LSP
 - nvimdev/guard.nvim
